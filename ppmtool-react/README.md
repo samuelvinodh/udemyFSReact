@@ -15,3 +15,9 @@ On project folder
 ### npm install bootstrap
 
 ### npm install react-router-dom
+
+### npm i redux react-redux redux-thunk
+
+### npm i axios
+
+### npm i classnames
